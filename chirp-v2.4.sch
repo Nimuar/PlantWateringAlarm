@@ -5871,6 +5871,7 @@ DIN A5, landscape with doc field</description>
 <pinref part="SW1" gate="G$1" pin="S1"/>
 <wire x1="114.3" y1="99.06" x2="114.3" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="96.52" x2="114.3" y2="86.36" width="0.1524" layer="91"/>
+<junction x="114.3" y="96.52"/>
 </segment>
 <segment>
 <wire x1="86.36" y1="2.54" x2="78.74" y2="2.54" width="0.1524" layer="91"/>
@@ -5916,6 +5917,7 @@ DIN A5, landscape with doc field</description>
 <wire x1="104.14" y1="86.36" x2="104.14" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="SW1" gate="G$1" pin="P"/>
 <wire x1="104.14" y1="96.52" x2="104.14" y2="99.06" width="0.1524" layer="91"/>
+<junction x="104.14" y="96.52"/>
 </segment>
 <segment>
 <wire x1="38.1" y1="5.08" x2="25.4" y2="5.08" width="0.1524" layer="91"/>
